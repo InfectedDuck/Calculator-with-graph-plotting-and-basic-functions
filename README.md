@@ -32,10 +32,4 @@ This Python calculator application provides standard arithmetic operations along
 2. Open the project with editor like Pycharm!
 3. Install necessary libraries!
 4. Launch the program!
-## Contributing
 
-Contributions are welcome! If you have suggestions, feature requests, or found a bug, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
